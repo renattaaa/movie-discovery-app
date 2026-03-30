@@ -37,11 +37,11 @@ A web application that allows users to explore movies, view ratings, and read de
 
 ## 📸 Demo
 
-### 🖥️ Home / Movie List
+### 🖥️ Home 
 ![Home](docs/home.png)
 
-### 🔍 Search Feature
-![Search](docs/search.png)
+### 🔍 All Movies List
+![Movies](docs/movies.png)
 
 ### 🎬 Movie Detail
 ![Detail](docs/detail.png)
